@@ -20,7 +20,7 @@ Leads Tracker is a simple Chrome Extension that helps you save text inputs and b
 ## Links
 
 - **GitHub Repository:** [https://github.com/Vashitva1356/-leads-tracker-.git]  
-- **Live Demo:** []
+- **Live Demo:** [https://vashitva1356.github.io/-leads-tracker-/]
 
 ## Installation
 1. Clone or download this repository:  
