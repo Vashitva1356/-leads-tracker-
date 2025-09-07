@@ -17,6 +17,11 @@ Leads Tracker is a simple Chrome Extension that helps you save text inputs and b
 - Chrome Tabs API  
 - LocalStorage  
 
+## Links
+
+- **GitHub Repository:** [https://github.com/Vashitva1356/-leads-tracker-.git]  
+- **Live Demo:** []
+
 ## Installation
 1. Clone or download this repository:  
 ```bash
